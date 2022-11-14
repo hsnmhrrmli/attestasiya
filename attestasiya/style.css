@@ -1,0 +1,30 @@
+body {
+    background-image: url(./images/WallpaperDog-5482636.jpg);
+    /* width: 100%;
+    height: 100%; */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    font-size: 27px;
+    font-weight: bold;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.left-end {
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+}
+
+.wel {
+    font-size: 27px;
+    font-weight: bold;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
