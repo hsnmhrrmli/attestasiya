@@ -23,6 +23,7 @@ body {
     font-size: 27px;
     font-weight: bold;
     color: red;
+    background-repeat: no-repeat;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: absolute;
     top: 50%;
